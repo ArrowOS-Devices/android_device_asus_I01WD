@@ -61,6 +61,9 @@ TARGET_BOARD_PLATFORM_GPU := qcom-adreno640
 # Properties
 BOARD_PROPERTY_OVERRIDES_SPLIT_ENABLED := true
 
+# SurfaceFlinger
+TARGET_USE_QCOM_SURFACEFLINGER := true
+
 # Treble
 BOARD_VNDK_VERSION := current
 
