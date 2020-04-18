@@ -157,10 +157,6 @@ PRODUCT_PACKAGES += \
     qti-telephony-utils \
     qti_telephony_utils.xml
 
-# Touch
-PRODUCT_PACKAGES += \
-    lineage.touch@1.0-service.asus_msmnile
-
 # Trust HAL
 PRODUCT_PACKAGES += \
     lineage.trust@1.0-service
