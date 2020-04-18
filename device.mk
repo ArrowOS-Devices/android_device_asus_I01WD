@@ -27,6 +27,7 @@ $(call inherit-product-if-exists, vendor/asus/I01WD/I01WD-vendor.mk)
 # Boot animation
 TARGET_SCREEN_HEIGHT := 2340
 TARGET_SCREEN_WIDTH := 1080
+TARGET_BOOT_ANIMATION_RES := 1080
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
