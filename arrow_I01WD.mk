@@ -7,6 +7,8 @@
 $(call inherit-product, device/asus/I01WD/device.mk)
 $(call inherit-product, vendor/arrow/config/common.mk)
 
+DEVICE_MAINTAINER := Perfectime94
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_BRAND := asus
 PRODUCT_DEVICE := I01WD
